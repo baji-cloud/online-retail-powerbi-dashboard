@@ -1,4 +1,4 @@
-# online-retail-powerbi-dashboard
+# online-retail-dashboard
 Interactive Power BI dashboard built from the Online Retail dataset, featuring revenue trends, top countries, customer insights, and global sales mapping.
 
 
